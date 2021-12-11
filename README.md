@@ -8,3 +8,5 @@ Each simulation has two steps.
 
 The geometry of the systems, the friction coefficients, the gravity, and contact behavior between bodies are also set in step 1. 
 Once the software LMGC90 is correctly installed, the construction and simulations scripts are simply run using a python interpreter. 
+
+The visualization files are stored in the folder DISPLAY and can be opened using the software Paraview.
